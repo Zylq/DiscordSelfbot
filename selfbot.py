@@ -1,10 +1,10 @@
 #HEY! Before running, please fill out the info below. This is REQUIRED for the bot to run properly.
 
 #Paste your token in the quotations (this is so the bot can actually run on your account)
-token = ""
+token = "ODAxMzI5ODA0OTg0OTc1Mzcy.YAfG5"
 
 #Type your prefix in the quotations, this will be placed in front of the chat commands.
-prefix = ""
+prefix = "-"
 
 #Enjoy! :)
 
